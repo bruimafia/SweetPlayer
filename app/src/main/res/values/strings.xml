@@ -1,0 +1,26 @@
+<resources>
+
+    <string name="app_name">SweetPlayer</string>
+    <string name="play">Нажмите на Play</string>
+
+    <string name="soundName_1">Антон Беляев\nЛететь (OST Лёд / Амега cover)</string>
+    <string name="soundName_2">Лера Массква\n7 этаж</string>
+    <string name="soundName_3">M83\nMidnight city</string>
+    <string name="soundName_4">Евгений Дога\nВальс</string>
+    <string name="soundName_5">Звери\nРайоны-кварталы</string>
+    <string name="soundName_6">Макс Барских\nLost in love</string>
+    <string name="soundName_7">Гриша Лепс\nРюмка водки на столе</string>
+    <string name="soundName_8">МакSим\nМой рай</string>
+    <string name="soundName_9">LP\nLost on you</string>
+
+    <string name="soundNumber_1">трек #1/9</string>
+    <string name="soundNumber_2">трек #2/9</string>
+    <string name="soundNumber_3">трек #3/9</string>
+    <string name="soundNumber_4">трек #4/9</string>
+    <string name="soundNumber_5">трек #5/9</string>
+    <string name="soundNumber_6">трек #6/9</string>
+    <string name="soundNumber_7">трек #7/9</string>
+    <string name="soundNumber_8">трек #8/9</string>
+    <string name="soundNumber_9">трек #9/9</string>
+
+</resources>
